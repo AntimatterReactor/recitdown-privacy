@@ -2,7 +2,7 @@
 
 Effective date: 2026-11-01
 
-RecItDown is a personal money tracker for Android, developed by Ezra Alvarion. This policy explains what happens to the information you put into it.
+RecItDown is a personal money tracker for Android, developed by Ezra A. Derrian. This policy explains what happens to the information you put into it.
 
 ## The short version
 
